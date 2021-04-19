@@ -1,10 +1,10 @@
 ```uml
 @startuml
-[*]-->State1
-State1-->[*]
-State1:this is a String
-State1:this is another String
-State1 --> State2
-State2-->[*]
+:体力=10;
+if(体力<=20) then (true)
+:宿屋に泊まる;
+else
+:頑張ってレベル上げる;
+endif
 @enduml
 ```
