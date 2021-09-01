@@ -12,7 +12,8 @@
 [こちら](http://aso-kuga.watson.jp/classic/item_list.php)
 
 ## 設計書の種類
-:::note info  
+
+:::
 機能一覧  
 業務フロー図  
 画面遷移図  
