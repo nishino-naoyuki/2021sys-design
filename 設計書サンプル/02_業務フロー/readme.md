@@ -7,5 +7,5 @@ Teamsのスライドのリンクです
 
 # 業務フローのファイル
 flow.mdを見てみてください  
-**要pegmatiteです
+**※要pegmatiteです**
 
