@@ -26,7 +26,7 @@
 
 ## マークダウンについて
 どんなんだっけ？という方は参考にして！  
-システム設計第03回（マークダウンとUML）.ppsx  
-[Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)  
-[PlantUML チートシート](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
+* システム設計第03回（マークダウンとUML）.ppsx  
+* [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)  
+* [PlantUML チートシート](https://qiita.com/ogomr/items/0b5c4de7f38fd1482a48)
  
