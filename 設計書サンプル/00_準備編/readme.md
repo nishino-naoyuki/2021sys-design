@@ -12,14 +12,14 @@
 [こちら](http://aso-kuga.watson.jp/classic/item_list.php)
 
 ## 設計書の種類
-:::note info
+:::note info  
 機能一覧  
 業務フロー図  
 画面遷移図  
 画面遷移表  
 画面詳細図  
 DB定義書（ER図、テーブルカラム一覧）  
-:::
+:::  
 
 ## マークダウンについて
 どんなんだっけ？という方は参考にして！  
